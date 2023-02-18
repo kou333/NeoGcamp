@@ -1,5 +1,1 @@
-var readlineSync= require('readline-sync');
-
-var userName=readlineSync.q uestion('enter tyhe name');
-
-console.log(userName);
+//console.log("Koustubh Naik");
